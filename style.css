@@ -8,18 +8,25 @@ h2 {
     padding: 5px;
 }
 
+ol {
+    color:chocolate;
+    font-style: strong;
+    border-style:solid;
+    width: 400px;
+    overflow-wrap: break-word;
+}
+
 ul {
     color:chocolate;
     border-style: solid;
     border-width: 3px;
     padding: 20px;
     margin: 5px;
-    width:fit-content;
-
-ol {
-    color:darkblue;
-    font-style: strong;
+    width: 400px;
+    overflow-wrap: break-word;
 }
+
+
 
 * {
     font-family: Arial, sans-serif, serif;
