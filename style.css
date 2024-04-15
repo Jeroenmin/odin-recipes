@@ -1,0 +1,30 @@
+h1 {
+    border-left: 0.25rem solid chocolate;
+    padding: 5px;
+}
+
+h2 {
+    border-left: 0.25rem solid chocolate;
+    padding: 5px;
+}
+
+ul {
+    color:chocolate;
+    border-style: solid;
+    border-width: 3px;
+    padding: 20px;
+    margin: 5px;
+    width:fit-content;
+
+ol {
+    color:darkblue;
+    font-style: strong;
+}
+
+* {
+    font-family: Arial, sans-serif, serif;
+}
+
+.ingredients {
+    font-style: italic;
+}
